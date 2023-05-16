@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Delete Music</string>
+    <string name="delete_dialog_negative">Cancel</string>
+    <string name="delete_dialog_positive">Allow</string>
+    <string name="delete_dialog_message">Are you sure to delete</string>
+    <string name="delete_dialog_title">Delete</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_reason">Permission Reason</string>
+</resources>
